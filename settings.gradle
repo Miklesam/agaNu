@@ -1,0 +1,4 @@
+include ':lib_task_api'
+include ':models'
+include ':app'
+rootProject.name = "Hamiton_Test"
